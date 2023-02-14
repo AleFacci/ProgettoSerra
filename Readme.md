@@ -4,4 +4,4 @@ in questo progetto si vuole implementare una serra automatizzata con l'uso di ar
 
 ## VentolaTemp
 
-in questo file si misura la temperatura esterna e poi se viene superato un valore hardcoded allora parte una ventola
+in questa cartella c'è uno script che misura la temperatura esterna ogni secondo e poi se viene superato un valore hardcoded allora avvia una ventola per 5 secondi
